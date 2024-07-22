@@ -1,7 +1,6 @@
 ## Hi, I `m Anatoly 👋
 
-I have no experience working on commercial projects. He graduated from front end courses.
-All my products for HTML, CSS and front-end are presented there
+I have no working experience on commercial projects. I'm graduated from front-end courses. All my products for HTML, CSS and JS are presented here
 
 📫: Reach me out
 
