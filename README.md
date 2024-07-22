@@ -26,4 +26,4 @@ All my products for HTML, CSS and front-end are presented there
 
 
 
-In the Lesson-Home-work repository, all my homework on the front-end developer course
+In the "Lesson-Home-work" repository, all my homework on the front-end developer course
