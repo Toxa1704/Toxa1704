@@ -15,5 +15,13 @@ All my products for HTML, CSS and front-end are presented there
 
 ![Static Badge](https://img.shields.io/badge/Email-Anatoly_Kolomiets%40outlook.com-%23c2660a?style=flat&logo=email&logoColor=%230A66C2&logoSize=auto&link=%3Ca%20href%3D%22www.linkedin.com%2Fin%2Fanatolykolokiets%22%3E%3C%2Fa%3E)
 
+###The best technologies (knowledge at the level of a beginner)
+
+![Static Badge](https://img.shields.io/badge/HTML--%23c2660a?style=flat&logo=HTML&logoColor=%230A66C2&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/CSS--%23c2660a?style=flat&logo=HTML&logoColor=%230A66C2&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/JS--%23c2660a?style=flat&logo=HTML&logoColor=%230A66C2&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/TS--%23c2660a?style=flat&logo=HTML&logoColor=%230A66C2&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/ReactJS--%23c2660a?style=flat&logo=HTML&logoColor=%230A66C2&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/NextJS--%23c2660a?style=flat&logo=HTML&logoColor=%230A66C2&logoSize=auto)
 
 
