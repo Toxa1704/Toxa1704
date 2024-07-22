@@ -25,3 +25,5 @@ All my products for HTML, CSS and front-end are presented there
 ![Static Badge](https://img.shields.io/badge/NextJS--%23c2660a?style=flat&logo=HTML&logoColor=%230A66C2&logoSize=auto)
 
 
+
+In the Lesson-Home-work repository, all my homework on the front-end developer course
